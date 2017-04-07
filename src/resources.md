@@ -16,6 +16,9 @@ You could also have alook through the [Make Magazine](http://www.makezine.com/) 
 
 [Electrical What?!](http://electricalwhat.com/) is an online database of components. The innovative thing is that they allow you to search by component diagram appearance. That way, if you find a strange circuit diagram that you can't quite decipher, then you can use Electrical What?! to find what it is. 
 
+[ROHM's Electronics basics](http://www.rohm.com/web/global/en_index) ROHM does a great job detailing the history and fundamentals of basic electronic components. 
+
+
 Recommended Books
 ---
 
